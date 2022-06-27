@@ -1,0 +1,7 @@
+// Setup
+var myArray=[["Paul",35],["dog", 3]]
+const ourArray = ["a","J","cat"];
+ourArray.shift();
+
+// Only change code below this line
+ourArray.unshift("Happy");
